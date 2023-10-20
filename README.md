@@ -1,2 +1,2 @@
 # YOLOv8-Car-Counter
-A demostration of simple car counter by YOLOv8
+A simple demostration of car counter by YOLOv8
